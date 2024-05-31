@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [overseer](https://github.com/KDKasonde/overseer) and helping out on [od2net](https://github.com/Urban-Analytics-Technology-Platform/od2net)
+- 🔭 I’m currently working on [overseer](https://github.com/KDKasonde/overseer).
 - 🌱 I’m currently learning Rust 🦀
 <!--
 **KDKasonde/KDKasonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
